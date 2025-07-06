@@ -1,4 +1,4 @@
-# 🚀 BusinessTool - Telegram Elan Botu
+# ₿usinessTool - Ticaretinizi Avtomatlasdirin🚀 
 
 **Author:** [SilverX](https://t.me/silverxvip)
 
