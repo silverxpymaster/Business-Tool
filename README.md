@@ -4,6 +4,8 @@
 
 ---
 
+![Ekran görüntüsü](https://github.com/silverxpymaster/Business-Tool/blob/main/Screenshot.png?raw=true)
+
 ## 🛠 Haqqında
 
 **BusinessTool**, Telegram alqı-satqı və ticarət qruplarında, kanallarda elanların avtomatik və müntəzəm şəkildə göndərilməsi üçün hazırlanmışdır. Bu alət sayəsində istədiyiniz elanları, məhsulları və ya xidmətləri qısa zamanda çoxsaylı qruplarda avtomatik paylaşa bilərsiniz.
