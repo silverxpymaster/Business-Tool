@@ -75,7 +75,7 @@ def run_program():
 
                 if os.path.exists(group_file):
                     try:
-                        secim = input(f"\n'{group_file}' tapildi. İstifade etmek isteyirsen? (yes/no): ").strip().lower()
+                        secim = input(f"\n'{group_file}' tapildi.İstifade etmek isteyirsen? (yes/no): ").strip().lower()
                         if secim == 'yes':
                             with open(group_file, 'r') as f:
                                 groups = [line.strip() for line in f if line.strip()]
@@ -146,7 +146,7 @@ def run_program():
                 graceful_exit()
 
         async def qrup_yig():
-            print("\nQrup linklerini daxil et. Bitirmek üçün 'q' yaz")
+            print("\nQrup linklerini daxil et.Bitirmek üçün 'q' yaz")
             groups = []
             while True:
                 try:
